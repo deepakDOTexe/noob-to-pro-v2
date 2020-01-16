@@ -24,10 +24,9 @@ This week involves Foot-Printing and a bit of development where you will be aske
 This week we will try to get our basics clear for pwn and rev.
 
 ### Week6
-To-Do
+This week learning of pentesting starts, need to find 3 keys from given VM.
 
 ### Week7
-To-Do
-
+This week we will try to get our basics clear for Web Exploitations.
 ### Week8
-To-Do
+Final Week.
